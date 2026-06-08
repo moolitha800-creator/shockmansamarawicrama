@@ -1,0 +1,52 @@
+{
+  "applicants": [
+    {
+      "applicant_id": "111111111V",
+      "name": "Saman Kumara",
+      "address": "12, Temple Road, Colombo",
+      "refundable_deposit": 100000,
+      "vehicle_category": "Car",
+      "vehicle_registration_number": "CAE-1234",
+      "auction_date": "2026-06-10T14:30",
+      "auction_category_start_date": "2026-06-08",
+      "starting_bid": 3500000,
+      "id": 1717830000101
+    },
+    {
+      "applicant_id": "222222222V",
+      "name": "Ruwan Perera",
+      "address": "45, Kandy Road, Kadawatha",
+      "refundable_deposit": 75000,
+      "vehicle_category": "SUV",
+      "vehicle_registration_number": "CBB-9876",
+      "auction_date": "2026-06-15T09:00",
+      "auction_category_start_date": "2026-06-10",
+      "starting_bid": 8500000,
+      "id": 1717830000102
+    },
+    {
+      "applicant_id": "333333333V",
+      "name": "Ajith Silva",
+      "address": "8, Beach Road, Negombo",
+      "refundable_deposit": 25000,
+      "vehicle_category": "Motorcycle",
+      "vehicle_registration_number": "BFE-4567",
+      "auction_date": "2026-06-08T18:00",
+      "auction_category_start_date": "2026-06-05",
+      "starting_bid": 350000,
+      "id": 1717830000103
+    },
+    {
+      "applicant_id": "444444444V",
+      "name": "Kasun Fernando",
+      "address": "22, Galle Road, Panadura",
+      "refundable_deposit": 50000,
+      "vehicle_category": "Van",
+      "vehicle_registration_number": "PF-2345",
+      "auction_date": "2026-07-01T10:15",
+      "auction_category_start_date": "2026-06-25",
+      "starting_bid": 6200000,
+      "id": 1717830000104
+    }
+  ]
+}
